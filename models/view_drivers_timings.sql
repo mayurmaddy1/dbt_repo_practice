@@ -1,3 +1,10 @@
+{{
+    config(
+        materialized='view',
+        secure = true
+    )
+}}
+
 
 SELECT 
 p.raceid ,p.driverid,p.time, p.duration,
