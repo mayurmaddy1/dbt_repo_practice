@@ -1,0 +1,7 @@
+sources:
+  - name: s1 
+    database :mayur_db
+    schema : Dev_mayur
+    tables:
+      - name: DRIVERS
+      -name : Circuits
