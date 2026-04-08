@@ -4,4 +4,4 @@ sources:
     schema : Dev_mayur
     tables:
       - name: DRIVERS
-      -name : Circuits
+      - name : Circuits
